@@ -77,7 +77,7 @@ A browser-based password analysis tool that evaluates password strength in real 
 
 Open `password_checker.html` directly in any browser — no server or install required.
 
-Or visit the live demo: https://yrgooden.github.io/Cybersecurity-tools/password_checker.html
+Or visit the live demo: https://yrgooden.github.io/Cybersecurity-Tools/password_checker.html
 
 **Skills Demonstrated**
 - Vanilla JavaScript and Web Crypto API (SHA-1 hashing)
