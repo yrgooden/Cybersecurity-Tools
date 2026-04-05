@@ -119,6 +119,6 @@ These tools are built for educational purposes and personal learning. Always ens
 
 ---
 
-## Yulonda Gooden
+## Author
 
 Built as part of a cybersecurity portfolio. Focused on Python scripting, network security, and browser-based security tooling.
